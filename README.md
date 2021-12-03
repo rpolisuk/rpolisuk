@@ -1,5 +1,4 @@
 - 👋 Hi, I’m @rpolisuk
-- 👀 I’m interested in mobile development.
 
 <!---
 rpolisuk/rpolisuk is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
